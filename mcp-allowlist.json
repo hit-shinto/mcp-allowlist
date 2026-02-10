@@ -1,0 +1,9 @@
+{
+  "mcp_servers": [
+    {
+      "name": "Atlassian MCP",
+      "url": "https://mcp.atlassian.com/v1/mcp",
+      "description": "Jira and Confluence integration"
+    }
+  ]
+}
