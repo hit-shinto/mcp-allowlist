@@ -1,12 +1,16 @@
 {
+  "metadata": {
+    "count": 1
+  },
   "servers": [
     {
       "server": {
-        "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+        "$schema": "https://static.modelcontextprotocol.io/schemas/2025-10-17/server.schema.json",
         "name": "com.atlassian/remote-mcp",
-        "title": "Atlassian Remote MCP Server",
-        "description": "Atlassian Remote MCP Server providing Jira and Confluence integration",
         "version": "1.0.0",
+        "description": "Atlassian Remote MCP Server providing Jira and Confluence integration",
+        "title": "Atlassian Remote MCP Server",
+        "icon": "https://www.atlassian.com/favicon.ico",
         "websiteUrl": "https://www.atlassian.com/platform/remote-mcp-server",
         "remotes": [
           {
@@ -18,14 +22,11 @@
       "_meta": {
         "io.modelcontextprotocol.registry/official": {
           "status": "active",
-          "publishedAt": "2025-01-01T00:00:00Z",
-          "updatedAt": "2025-01-01T00:00:00Z",
+          "publishedAt": "2025-01-01T00:00:00.000000Z",
+          "updatedAt": "2025-01-01T00:00:00.000000Z",
           "isLatest": true
         }
       }
     }
-  ],
-  "metadata": {
-    "count": 1
-  }
+  ]
 }
